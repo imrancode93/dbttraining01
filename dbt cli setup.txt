@@ -1,3 +1,7 @@
 DBT CLI SETUP
 
 1. conda create -n myenv python=3.7
+
+2. conda activate envname
+
+3. pip install dbt-core
