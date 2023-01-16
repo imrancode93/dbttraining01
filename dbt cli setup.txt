@@ -5,3 +5,5 @@ DBT CLI SETUP
 2. conda activate envname
 
 3. pip install dbt-core
+
+4. pip install dbt-snowflake
